@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "prueba_tecnica.Controllers.LdapController",
+    "Method": "Authenticate",
+    "RelativePath": "api/Ldap/authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "prueba_tecnica.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
